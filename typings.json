@@ -1,6 +1,7 @@
 {
     "ambientDependencies": {
-        "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#f3eb60e55aa648b590e08e2881d3f159788f3bad",
-        "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#b13a8c64ffd368b4528f222f404f67b4c7d76cfb"
+    	"jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#b13a8c64ffd368b4528f222f404f67b4c7d76cfb",
+        "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#f3eb60e55aa648b590e08e2881d3f159788f3bad"
+        
     }
 }

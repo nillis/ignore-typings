@@ -7,7 +7,7 @@
 		"jspm_packages",
 		"lib",
 	    "node_modules",   
-		"typings/main",
-		"typings/main.d.ts"
+		"typings/browser",
+		"typings/browser.d.ts"
 	]
 }

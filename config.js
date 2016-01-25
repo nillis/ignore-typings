@@ -24,9 +24,9 @@ System.config({
   },
 
   map: {
-    "ts": "github:frankwallis/plugin-typescript@2.5.1",
+    "ts": "github:frankwallis/plugin-typescript@2.4.9",
     "typescript": "npm:typescript@1.7.5",
-    "github:frankwallis/plugin-typescript@2.5.1": {
+    "github:frankwallis/plugin-typescript@2.4.9": {
       "typescript": "npm:typescript@1.7.5"
     }
   }
