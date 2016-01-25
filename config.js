@@ -3,8 +3,8 @@ System.config({
   defaultJSExtensions: true,
   transpiler: "typescript",
   typescriptOptions: {
-      "typeCheck": "strict",
-      "tsconfig": true
+    "typeCheck": "strict",
+    "tsconfig": true
   },
   paths: {
     "npm:*": "jspm_packages/npm/*",
