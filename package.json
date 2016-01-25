@@ -1,0 +1,10 @@
+{
+  "jspm": {
+    "dependencies": {
+      "ts": "github:frankwallis/plugin-typescript@^2.5.1"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}

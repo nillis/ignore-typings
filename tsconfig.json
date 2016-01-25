@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"outDir": "lib",
+		"declaration": true
+	},
+	"exclude": [	
+		"jspm_packages",
+		"lib",
+	    "node_modules",   
+		"typings/main",
+		"typings/main.d.ts"
+	]
+}
