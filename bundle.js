@@ -28,17 +28,9 @@ $__System.registerDynamic("3", [], false, function(__require, __exports, __modul
 });
 
 $__System.register("1", [], function(exports_1) {
-  var Directive;
   return {
     setters: [],
-    execute: function() {
-      var Directive = (function() {
-        function Directive() {
-          this.template = "HELLO WORLD";
-        }
-        return Directive;
-      })();
-    }
+    execute: function() {}
   };
 });
 

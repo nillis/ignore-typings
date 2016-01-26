@@ -1,4 +1,4 @@
-// Compiled using typings@0.4.0
+// Compiled using typings@0.6.2
 // Source: https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/f3eb60e55aa648b590e08e2881d3f159788f3bad/angularjs/angular.d.ts
 // Type definitions for Angular JS 1.4+
 // Project: http://angularjs.org

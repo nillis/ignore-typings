@@ -1,4 +1,1 @@
-/// <reference path="../typings/browser.d.ts" />
-class Directive implements ng.IDirective {
-    template = `HELLO WORLD`;
-}
+/// <reference path="..\typings\main.d.ts" />
