@@ -1,7 +1,7 @@
 {
   "jspm": {
     "dependencies": {
-      "ts": "github:frankwallis/plugin-typescript@2.5.2"
+      "ts": "github:frankwallis/plugin-typescript@^3.0.2"
     },
     "devDependencies": {
       "typescript": "npm:typescript@^1.6.2"

@@ -24,10 +24,10 @@ System.config({
   },
 
   map: {
-    "ts": "github:frankwallis/plugin-typescript@2.5.2",
+    "ts": "github:frankwallis/plugin-typescript@3.0.2",
     "typescript": "npm:typescript@1.7.5",
-    "github:frankwallis/plugin-typescript@2.5.2": {
-      "typescript": "npm:typescript@1.7.5"
+    "github:frankwallis/plugin-typescript@3.0.2": {
+      "typescript": "npm:typescript@1.9.0-dev.20160210"
     }
   }
 });
